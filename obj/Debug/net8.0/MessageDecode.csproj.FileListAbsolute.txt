@@ -1,0 +1,14 @@
+D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.AssemblyInfoInputs.cache
+D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.AssemblyInfo.cs
+D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.csproj.CoreCompileInputs.cache
+D:\csharp\MessageDecode\bin\Debug\net8.0\MessageDecode.exe
+D:\csharp\MessageDecode\bin\Debug\net8.0\MessageDecode.deps.json
+D:\csharp\MessageDecode\bin\Debug\net8.0\MessageDecode.runtimeconfig.json
+D:\csharp\MessageDecode\bin\Debug\net8.0\MessageDecode.dll
+D:\csharp\MessageDecode\bin\Debug\net8.0\MessageDecode.pdb
+D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.dll
+D:\csharp\MessageDecode\obj\Debug\net8.0\refint\MessageDecode.dll
+D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.pdb
+D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.genruntimeconfig.cache
+D:\csharp\MessageDecode\obj\Debug\net8.0\ref\MessageDecode.dll
