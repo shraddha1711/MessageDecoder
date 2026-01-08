@@ -12,3 +12,4 @@ D:\csharp\MessageDecode\obj\Debug\net8.0\refint\MessageDecode.dll
 D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.pdb
 D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.genruntimeconfig.cache
 D:\csharp\MessageDecode\obj\Debug\net8.0\ref\MessageDecode.dll
+D:\csharp\MessageDecode\obj\Debug\net8.0\MessageDecode.sourcelink.json
